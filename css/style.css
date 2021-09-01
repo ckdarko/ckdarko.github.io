@@ -73,6 +73,11 @@ strong { font-weight: var(--fw-bold) }
   font-family: 'Lobster', cursive;
 }
 
+.left {
+  text-align: left;
+  color: white;
+}
+
 /* Buttons */
 
 .btn {
