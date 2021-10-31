@@ -495,3 +495,40 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* inspired */
+
+.art{
+  margin: auto;
+}
+
+td{
+  background: red;
+  height: 500px;
+  width: 300px;
+  border: 10px solid #303030;
+
+
+}
+
+#one{
+background: #1be7ff;
+}
+#two{
+  background: #e01a4f;
+}
+#three{
+  background: #f15946;
+}
+#four{
+  background: #f9c22e;
+}
+#five{
+  background: #da8a67;
+}
+
+.inspired{
+  font-style: italic;
+}
+
+/* back to the top */
